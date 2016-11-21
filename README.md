@@ -8,9 +8,9 @@
   # change the current directory
   λ cd fma
   # install all dependencies
-  λ npm install
+  λ yarn install
   # run the project
-  λ npm start
+  λ yarn start
 ```
 
 ### Structure
@@ -36,10 +36,10 @@
 
 ### Scripts
 
-- `npm start` - builds the redux app in development mode
-- `npm run lint` - lints all the files in `src/` folder
-- `npm run lint:fix` - fixes all the possible linting errors
-- `npm run serve` - serves the files in the `dist/` folder
+- `yarn start` - builds the redux app in development mode
+- `yarn run lint` - lints all the files in `src/` folder
+- `yarn run lint:fix` - fixes all the possible linting errors
+- `yarn run serve` - serves the files in the `dist/` folder
 
 **Suggestion:** To turn on debug messages, set `DEBUG` localStorage variable to `fma:*`
 
