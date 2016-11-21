@@ -23,7 +23,6 @@ function onUpdate() {
   if (window.__INITIAL_STATE__ !== null) {
     window.__INITIAL_STATE__ = null;
   }
-  return void(0);
 }
 
 render(
@@ -32,5 +31,5 @@ render(
       {routes}
     </Router>
   </Provider>,
-  document.getElementById('app')
+  document.getElementById('app'),
 );
