@@ -1,6 +1,6 @@
 import { REQUEST, FAILURE, SUCCESS } from 'constant/types';
 
-const initialState = { text: 'Hello, motherfucker.' };
+const initialState = { text: 'Hello, world.' };
 
 export default function root(state = initialState, action) {
   const nextState = Object.assign({}, state);
