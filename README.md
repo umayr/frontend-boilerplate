@@ -1,12 +1,12 @@
-# FMA
-> Frontend app for FindMyAdventure.
+# Frontend Boilerplate
+> It's how _I_ like it, fork before using it.
 
 ### Setup
 ```bash
   # clone the repository
-  λ git clone https://github.com/umayr/fma
+  λ git clone https://github.com/umayr/frontend-boilerplate
   # change the current directory
-  λ cd fma
+  λ cd frontend-boilerplate
   # install all dependencies
   λ yarn install
   # run the project
@@ -71,3 +71,7 @@ The footer should contain any information about **Breaking Changes** and is also
 reference GitHub issues that this commit **Closes**.
 
 **Breaking Changes** should start with the word `BREAKING CHANGE:` with a space or two newlines. The rest of the commit message is then used for this.
+
+
+### License
+MIT
