@@ -1,5 +1,5 @@
 {
-  "name": "fma",
+  "name": "frontend-boilerplate",
   "private": true,
   "version": "1.0.0",
   "description": "Well, I'll think of something, someday.",
@@ -16,7 +16,6 @@
   "dependencies": {
     "bootstrap-sass": "^3.3.7",
     "core-js": "^2.4.1",
-    "debug": "^2.3.3",
     "moment": "^2.16.0",
     "normalize.css": "^5.0.0",
     "react": "15.4.0",

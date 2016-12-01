@@ -41,8 +41,6 @@
 - `yarn run lint:fix` - fixes all the possible linting errors
 - `yarn run serve` - serves the files in the `dist/` folder
 
-**Suggestion:** To turn on debug messages, set `DEBUG` localStorage variable to `fma:*`
-
 ### Commit Guidelines
 
 The commit message formatting can be added using a typical git workflow
