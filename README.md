@@ -1,5 +1,5 @@
 # Frontend Boilerplate
-> It's how _I_ like it, fork before using it.
+> It's how I like it, fork before using it.
 
 ### Setup
 ```bash
